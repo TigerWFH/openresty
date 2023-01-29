@@ -1,4 +1,3 @@
-console.log('monkey.js');
 function setCookie(name, value, day, domain = document.domain) {
   var date = new Date();
   date.setDate(date.getDate() + day);
@@ -6,6 +5,5 @@ function setCookie(name, value, day, domain = document.domain) {
   document.cookie =
     name + '=' + value + ';expires=' + date + ';domain=' + domain + ';path=/';
 }
-setCookie('monkey', 'monkey', 3);
-setCookie('monkey2', 'monkey2', 3, '.wfh.com');
-setCookie('monkey3', 'monkey3', 3, 'cat.dudu.com');
+setCookie('cat', 'cat', 3);
+setCookie('cat2', 'cat2', 3, 'cat.dudu.com');
