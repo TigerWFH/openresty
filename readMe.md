@@ -62,3 +62,5 @@ cookie格式：
 ## 问题列表
 
 [问题](https://stackoverflow.com/questions/70266791/cant-start-httpd-failure-while-executing-bin-launchctl-bootstrap-gui-501)
+
+- VPN 代理，需要设置测试域名的非代理规则
