@@ -2,10 +2,18 @@
 
 ## hosts 域名映射
 
+> - `wfh.com`127.0.0.1
+> - `www.wfh.com`127.0.0.1
 > - `monkey.wfh.com`127.0.0.1
 > - `cat.wfh.com`127.0.0.1
 > - `dudu.wfh.com`127.0.0.1
 > - `fish.wfh.com`127.0.0.1
+> - 127.0.0.1 www.monkey.com
+> - 127.0.0.1 www.sit.monkey.com
+> - 127.0.0.1 www.dev.monkey.com
+> - 127.0.0.1 www.prod.monkey.com
+> - 127.0.0.1 www.cat.com
+> - 127.0.0.1 www.fish.com
 
 ## 静态资源映射到 src 目录
 
